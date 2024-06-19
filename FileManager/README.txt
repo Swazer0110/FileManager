@@ -28,6 +28,4 @@
         DEBUG = True                            # Activar modo debug de Flask
         NEW_DB = False                          # Crear nueva base de datos y borrar archivos de la carpeta de subida
 
-    La aplicación está configurada para crear un usuario CEO con contraseña ´%VsL&J9&9NLa$P^´ por defecto
-
     El servidor se abre en local en http://127.0.0.1:5000/
